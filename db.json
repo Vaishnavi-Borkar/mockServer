@@ -1,64 +1,375 @@
 {
     "users": [
-        {
-            "id": 1,
-            "name": "Gertrudis Tatterton",
-            "age": 18,
-            "email": "gtatterton0@ehow.com"
-        },
-        {
-            "id": 2,
-            "name": "Gail Newbatt",
-            "age": 53,
-            "email": "gnewbatt1@un.org"
-        },
-        {
-            "id": 3,
-            "name": "Walliw Wilstead",
-            "age": 49,
-            "email": "wwilstead2@tripadvisor.com"
-        },
-        {
-            "id": 4,
-            "name": "Abran Proback",
-            "age": 29,
-            "email": "aproback3@theglobeandmail.com"
-        },
-        {
-            "id": 5,
-            "name": "Roda Chappelow",
-            "age": 31,
-            "email": "rchappelow4@oaic.gov.au"
-        },
-        {
-            "id": 6,
-            "name": "Karney Wylie",
-            "age": 22,
-            "email": "kwylie5@miitbeian.gov.cn"
-        },
-        {
-            "id": 7,
-            "name": "Cammi Pimbley",
-            "age": 63,
-            "email": "cpimbley6@nyu.edu"
-        },
-        {
-            "id": 8,
-            "name": "Gavra Manning",
-            "age": 43,
-            "email": "gmanning7@lycos.com"
-        },
-        {
-            "id": 9,
-            "name": "Zachary Seward",
-            "age": 45,
-            "email": "zseward8@oracle.com"
-        },
-        {
-            "id": 10,
-            "name": "Chucho Norssister",
-            "age": 20,
-            "email": "cnorssister9@mayoclinic.com"
-        }
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 1
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 2
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 3
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 4
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 5
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 6
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 7
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 8
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 9
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 10
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 11
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 12
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 13
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 14
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 15
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 16
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 17
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 18
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 19
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 20
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 21
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 22
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 23
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 24
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 25
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 26
+      },
+      {
+        "username": "",
+        "email": "",
+        "password": "",
+        "rePass": "",
+        "id": 27
+      }
+    ],
+    "hotels": [
+      {
+        "category": "Deluxe",
+        "image": "vbn",
+        "bedtype": "double",
+        "no_of_persons": "20",
+        "capacity": "41",
+        "cost": "200000",
+        "id": 1
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 2
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 3
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 4
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 5
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 6
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 7
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 8
+      },
+      {
+        "category": "Family",
+        "image": "vb",
+        "bedtype": "single",
+        "no_of_persons": "20",
+        "capacity": "52",
+        "cost": "200",
+        "id": 9
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 10
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 11
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 12
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 13
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 14
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 15
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 16
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 17
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 18
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 19
+      },
+      {
+        "category": "Family",
+        "image": "",
+        "bedtype": "single",
+        "no_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "id": 20
+      }
     ]
-}
+  }
