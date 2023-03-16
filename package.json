@@ -1,13 +1,13 @@
 {
   "name": "mock-server-deploy",
   "version": "1.0.0",
-  "description": "",
+  "description": "mock server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "vaishnavi",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.2"
